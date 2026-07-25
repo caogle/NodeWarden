@@ -91,7 +91,7 @@
 >   | KV | No | 25 MiB (Cloudflare limit) | 1 GB |
 
 
-## How to update
+## How to updateeeee
 
 - Manual: open your fork on GitHub; when the sync banner appears, click **Sync fork** → **Update branch**
 
